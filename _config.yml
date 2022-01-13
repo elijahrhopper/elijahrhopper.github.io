@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elijah Hopper / Site Title"
+title                    : "Elijah Hopper"
 title_separator          : "-"
 name                     : &name "Elijah Hopper"
 description              : &description "Junior at Georgia Institute of Technology studying Computer Science and Music Technology"
